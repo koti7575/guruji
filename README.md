@@ -1,4 +1,4 @@
-# guruji
+# Rich Kid
 Life Adviser &amp; Life Hacks Alexa Custom skill
 
 Get best out of You and motivation for student and professionals and entrepreneurs and who need some motivation about life and goals and not wasting time by asking 
